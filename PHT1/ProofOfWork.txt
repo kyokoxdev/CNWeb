@@ -1,0 +1,5 @@
+Request URL: https://tlu.edu.vn/
+Request Method: GET
+Status Code: 500 Internal Server Error
+
+Question: Tại sao khi tải 1 trang web, tab Network lại xuất hiện những request tài nguyên ảnh (webp) trước thay vì request www.tlu.edu.vn đầu tiên?

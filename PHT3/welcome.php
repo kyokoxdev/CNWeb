@@ -17,7 +17,7 @@ if (isset($_SESSION['username'])) {
 } else {
  // TODO 6: Nếu không tồn tại SESSION (chưa đăng nhập)
  // Chuyển hướng người dùng về trang login.html
- // Gợi ý: Dùng header('Location: ...');
+  // Gợi ý: Dùng header('Location: ...');
     header('Location: login.html');
  exit;
 }

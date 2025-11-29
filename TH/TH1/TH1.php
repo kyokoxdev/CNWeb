@@ -50,7 +50,7 @@ $flowers = $_SESSION['flowers'];
     <div class="header">
         <h1>Danh Sách Các Loài Hoa</h1>
         <?php if (isLoggedIn()): ?>
-            <a href="admin.php" class="login-btn admin-btn">Quản trị</a>
+            <a href="crud_table.php" class="login-btn admin-btn">Quản trị</a>
         <?php else: ?>
             <a href="login.php" class="login-btn">Đăng nhập Admin</a>
         <?php endif; ?>

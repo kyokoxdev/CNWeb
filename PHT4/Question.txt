@@ -1,0 +1,1 @@
+SQL Injection nguy hiểm đến mức nào? Có những phương thức nào để ngăn chặn SQL Injection?
